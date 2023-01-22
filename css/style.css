@@ -1,0 +1,8 @@
+* {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+canvas{
+    background-image: url("/img/613147.jpg");
+}
